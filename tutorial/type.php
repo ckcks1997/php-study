@@ -143,7 +143,7 @@ echo addNumbers(5, 3)."<br>";
 
 #true/false
 $a = 123;
-echo gettype($a) === "integer"."<br>";
+echo gettype($a) === "integer"."<br>"; //gettype과 var_dump
 echo 0===null;
 
 echo "<br>";
